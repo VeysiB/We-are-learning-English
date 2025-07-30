@@ -1,0 +1,55 @@
+extraordinary=olağanüstü,sıra dışı,fevkalade(okunuş:ekstrordinary)
+ 1)She has an extraordinary talent for painting
+ 2)The team made an extraordinary effort to finish the project on time
+ 3)it was an extraordinary experience that I will never forget
+curly=kıvırcık,kıvrımlı
+ 1)She has beautiful curly hair that shines in the sunlight
+ 2)My dog has soft,curly fur that everyone loves to pet
+ 3)He used a curling iron to make his straight hair curly
+straight=düz(en yaygın anlamı) aynı zamanda doğrudan,dürüst,heteroseksüel anlamlarıda vardır
+ 1)She has long,straight hair that she brushes every morning
+ 2)Go straight for two blocks,then turn left at the traffic lights
+ 3)He gave me a straight answer without hesitation
+wavy=dalgalı
+ 1)She has thick,wavy hair that falls past her shoulders
+ 2)The ocean looked calm,with only a few wavy ripples
+ 3)He drew a wavy line across the top of the page
+society=toplum,cemiyet
+ 1)Education plays a key role in the development of a strong society
+ 2)We live in a society where technology changes rapidly
+ 3)The charity works to support the most vulnerable members of society
+applause=alkış,alkışlama
+ 1)The actor received loud applause at the end of his performance
+ 2)Her speech was so inspiring that it brought the audience to applause
+ 3)There was a moment of silence,followed by thunderous applause
+anxious=endişeli,kaygılı
+ 1)She felt anxious before her job interview
+ 2)I'm anxious about the results of the exam
+ 3)The children were anxious to open their presents
+privy=haberdar,bilgisi olan(genellikle gizli bir bilgiye vakıf olmak)
+ 1)Shea was not privy to the confidential discussions
+ 2)As a senior advisor,she was privy to all the strategic plans of the company
+ 3)He shouldn't have been privy to such sensitive information without proper clearance
+dumped=terk edilmiş
+ 1)She dumped her boyfriend after finding out he lied
+bald=kel,saçsız
+ 1)He started going bald in his early thirties
+dump=çöplük,dökmek,boşaltmak
+ 1)The workers dumped the garbage into the landfill
+Suspect=şüphelenmek,şüpheli
+ 1)I suspect he's not telling the truth
+indeed=gerçekten,hakikaten
+ 1)Indeed,it was one of the best movies I've ever seen
+ 2)It's very cold today indeed,it might even snow
+ 3)She is indeed a talented musician
+
+
+
+
+
+
+
+
+
+
+

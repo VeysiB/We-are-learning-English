@@ -1,0 +1,40 @@
+frightened=korkmuş,ürkmüş 
+  1)The child was frightened of the dark
+  2)She looked frightened when she heard the loud noise
+  3) I'm frightened of spiders
+immigrant=göçmen,sığınmacı
+  1)My grandfather was an immigrant who came to the united states from turkey in 1950s
+  2)Immigrants often face many challenges when adapting to a new culture
+  3)The government created new policies to support immigrant families
+ingredient=içerik,malzeme
+  1)Flour is the main ingredient in most bread recipes
+  2)She checked the ingredients before buying the packaged food
+  3)Love is the secret ingredient in all of her cooking
+intention=niyet,amaç
+   1)It was not my intention to hurt your feelings
+   2)She announced her intention to start a new business
+   3)Good intentions don't always lead to good results
+narrative=öykü,hikaye
+   1)She wrote a powerful narrative about her childhood experiences
+   2)The movie follows a nonlinear narrative that jumps between past and present
+   3)The narrative of the novel is told from the main character's point of view
+ought=gerekli,lazım
+   1)You ought to apologize for what you said
+   2)We ought to leave early to avoid traffic
+   3)He ought to know the answer by now
+poisonous=zehir,toxic
+   1)Some mushrooms are highly poisonous and can be deadly if eaten
+   2)They discovered a poisonous snake in their backyard
+   3)The chemical produced a poisonous gas when heated
+relate=ilgili olmak,ilişki kurmak
+   1)I can totally relate to your situation because I've been there before
+   2)The report relates the increase in sales to the new marketing strategy
+   3)Children often relate better to stories with animal characters
+sculpture=heykel,heykelcilik
+   1)The museum has a beautiful collection of ancient Greek sculptures.
+   2)She studied sculpture at the university for four years
+   3)He made a wooden sculpture of a horse as a gift.
+spicy=baharatlı,acı
+   1)I love eating spicy food, especially in the winter
+   2)This curry is too spicy for me; I can't eat it
+   3)She added some chili peppers to make the soup more spicy
