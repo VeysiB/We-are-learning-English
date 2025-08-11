@@ -1,0 +1,14 @@
+**frightened=korkmuş,ürkmüş,dehşete düşmüş
+**immigrant=göçmen,muhacir,göçebe
+*ingredient=bileşen,içerik,malzeme
+**intention=amaç,niyet
+**narrative=anlatı,hikaye
+**ought=yapmalı,gerekli,lazım(bununla çok karşılaşıyorum)
+**poisonous=zehirli,fesat,kötü niyetli
+*relate=ilgili olmak,ilişki kurmak
+*sculpture=heykel,heykeltraşlık,oymak,yontmak
+*spicy=baharatlı,acılı,kokulu
+
+
+
+
