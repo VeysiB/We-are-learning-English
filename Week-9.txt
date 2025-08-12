@@ -65,10 +65,53 @@ supply=sağlamak,tedarik etmek,(malzeme isim kullanımı)
  4)They supply the hospital with medicine
  5)Fresh water is in short supply in that region
  **We supply vital aid to people fleeing the war
+summary=özet
+ 1)The teacher asked us to write a summary of the story
+ 2)Here's a quick summary of the meeting
+ 3)In summary,we need to work harder to meet the deadline
+ **In summary,you don't listen to me
+suitable=uygun,elverişli,yerine uygun
+ 1)This dress is not suitable for a wedding
+ 2)we need to find a suitable time for the meeting
+ 3)She is the most suitable candidate for the job
+ 4)This course is suitable for beginners
+ 5)His skills are suitable to the project needs
+ **The soil in Batman is suitable for growing peanuts
+substance=madd,öz/içerik(mecaz anlamda),önem/değer(soyut anlamda)
+ 1)Water is a simple chemical substance
+ 2)The clothes were covered in a sticky substance
+ 3)His speech was interesting,but it lacked substance
+ **The police found an illegal substance and arrested him
+loyal=sadık,vefalı
+ 1)Dogs are known to be very loyal animals
+ 2)She has been a loyal customer of this shop for 20 years
+ 3)He remained loyal to his friends even in difficult times
+ 4)I admire her loyalty
+ **We dont know whether they are loyal
+royal=kraliyet,asil
+ 1)They were invited to a royal wedding
+ 2)The royal palace is open to visitors in summer
+ 3)He received a medal from the royal family
+ **He feels royal blood running through his veins
+rough=pürüzlü,kabaca,zorlu
+ 1)The surface of the wall is rough
+ 2)He had a rough day at work
+ 3)This is just a rough estimate,not the exact number
+ **You owe me roughly 400 dollars
+rape=Tecavüz
+ 1)The suspect was arrested for rape
+ 2)She reported the rape to the police immediately
+ 3)Is is illegal and punishable by law to rape anyone
+ **The victim spoke about the rape
+
+
+
+
 
 scarf=atkı
 attract=çekmek,cezbetmek
-
+fertile=çok verimli
+estimate=tahmin etmek
 
 
 
