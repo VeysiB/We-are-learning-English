@@ -32,10 +32,39 @@ unless=-medikçe,mezse,eğer .. olmazsa
  2)I can't help you unless you tell me the truth
  3)Unless it rains,we will have a picnic tomorrow
  **Unless you control your eating,you can't lose weight
-
-
-
-
+unable=yapamayan,gücü yetmeyen,mümkün olmayan
+ 1)I was unable to attend the meeting because I was sick
+ 2)She's unable to swim without help
+ 3)They were unable to finish the project on time
+ **I want to go abroad,bu I am unable to right now
+tyre=lastik(amerikan ingilizcesi tire)
+ 1)I need to change the front tyre of my bike
+ 2)The car's tyre burst on the highway
+ 3)You should check your tyre pressure regularly
+  **When I bought my car,I changed its tyres
+typically=genellikle,tipik olarak
+ 1)I typically have coffee in the morning
+ 2)Cats typically sleep for 12 to 16 hours a day
+ 3)This kind of plant typically grows in tropical climates
+ **Typically,my son eats an apple in the morning
+treatment=tedavi,davranış,işlem/uygulama(örn saç bakımı)
+ 1)He is receiving treatment for his back injury 
+ 2)I didn't like the way they gave me special treatment
+ 3)This water needs treatment before its safe to drink
+ **I made an appointment for my leg treatment
+treat=tedavi etmek,davranmak,ısmarlamak,işlemek-uygulamak
+ 1)The doctor treated my leg injury
+ 2)She always treats everyone with respect
+ 3)let me treat you to dinner tonight
+ 4)They treated me like family
+ **She treated the kids to ice cream after school
+supply=sağlamak,tedarik etmek,(malzeme isim kullanımı)
+ 1)The company supplies fresh water to the village
+ 2)We need to check our supply of medical equipment
+ 3)Food supplies were sent to the disaster area
+ 4)They supply the hospital with medicine
+ 5)Fresh water is in short supply in that region
+ **We supply vital aid to people fleeing the war
 
 scarf=atkı
 attract=çekmek,cezbetmek
