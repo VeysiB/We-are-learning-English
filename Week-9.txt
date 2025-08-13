@@ -3,7 +3,7 @@ youth=Gençlik/Genç kişi
  2)The youth of today are very interested in technology 
  3) He spent his youth traveling around the world  
  ** I believe my youth will last forever
-Wool=yün
+wool=yün
  1)This sweater is made of 100% wool
  2)She bought some wool to knit a scarf
  3)Wool keeps you warm even in very cold weather
@@ -103,7 +103,22 @@ rape=Tecavüz
  2)She reported the rape to the police immediately
  3)Is is illegal and punishable by law to rape anyone
  **The victim spoke about the rape
-
+revise=gözden geçirmek,düzeltmek
+ 1)I will revise my homework before I give it to the teacher
+ 2)She revised her notes before the exam
+ 3)We need to revise the plan because of the water
+ **You should revise your answers at the end of the exam
+insane=deli,akıl sağlığı yerinde olmayan,aşırı çılgın
+ 1)The idea of jumping from that height is insane
+ 2)He went insane after hearing the bad news
+ 3)That party last night was insane
+ **He must be insane to drive that fast
+debate=fikir alışverişi,tartışma,münazara
+ 1)There was a heated debate about climate change in the meeting
+ 2)The debate between the two candidates lasted for two hours
+ 3)Gun control is topic of national debate in many countries
+ 4)We debated whether to invest in the new project
+**They debated the pros and cons of working abroad
 
 
 
