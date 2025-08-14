@@ -119,8 +119,37 @@ debate=fikir alışverişi,tartışma,münazara
  3)Gun control is topic of national debate in many countries
  4)We debated whether to invest in the new project
 **They debated the pros and cons of working abroad
-
-
+instant=ani,hemen olan
+ 1)I need an instant replay to my email
+ 2)This app gives you instant access to news
+ 3)We had an instant connection when we first met
+ **He realized that success does not happen instantly;success needs time
+mindlessly=akılsızca,düşüncesizce
+ 1)He was scrolling through social media mindlessly for hours
+ 2)He nodded mindlessly to everything I said
+ 3)He agreed mindlessly to his plan
+ 4)They followed leader mindlessly
+ 5)She signed the paper mindlessly
+ **Never speak mindlessly,think first then speak
+sweep=süpürmek
+ 1)She swept the floor before guests arrived
+legend=efsane
+ 1)He is a football legend in out country
+indicate=göstermek,işaret etmek,belirtmek
+ 1)The red light indicates danger
+ 2)Please indicate your choise on the form
+ 3)All signs indicate that it will rain
+ **History indicates that Kurds always win
+separate=ayırmak,ayrı
+ 1)We must separate truth from lies
+ 2)They live in separate houses
+ 3)Please separate the clothes by color
+ **He was the first doctor to successfuly separate conjoined twins joined at the head
+smooth=düz,prüzsüz,düzgün,mecazi anlamlarıda var örn:he is smooth talker
+ 1)This road is very smooth
+ 2)He has a smooth voice
+ 3)The meeting went smootly(toplantı sorunsuz geçti)
+ **Konya has very smooth land,unlike Şırnak
 
 
 scarf=atkı
