@@ -1,0 +1,51 @@
+nap=kısa uyku,kestirme
+ 1)I usually take a nap after lunch
+ 2)She was so tired that she decided to nap for 20 minutes
+ 3)A quick nap can boost your energy for the rest of the day
+ **as you get older,naps become more frequent
+surgeon=cerrah,operatör
+ 1)The surgeon performed a five-hour heart operation
+ 2)She wants to become a brain surgeon in the future
+ 3)The surgeon carefully explained the risks before the surgery
+ **My cousin is a brain surgeon
+greedy=açgözlü,doyumsuz
+ 1)He is so greedy,he never shares his food
+ 2)The greedy cat,ate all the fish
+ 3)Don't be greedy,leave some for others
+ **A greedy person always feels like a hungry dog
+ignorant=cahil,bilgisiz
+ 1)He is ignorant of the rules
+ 2)Dont be ignorant about history
+ 3)She stayed ignorant of the news
+ **The most cheerful people are ignorant people
+morality=ahlak,erdem
+ 1)Morality is important in building a fair society
+ 2)He made his decision based on morality,not profit
+ 3)Diffrent cultures may have different ideas of morality
+
+
+
+
+fair=adil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*******************************
+türkçe -dıkça,dikçe yapısının inglizce karşılığı:
+As+subject+verb
+1)As we get older,we need more rest
+2)As we get tired,we become less carefull
+3)As you work harder,you achieve more success
+4)As tecnology develops,life becomes easier
+5)As you boil water,more steam forms
